@@ -1,10 +1,10 @@
-#Projeto C# Console para exportaÁ„o de dados de funcion·rios
-Treinamento C# WebDeveloper COTI Inform·tica
+#Projeto C# Console para exporta√ß√£o de dados de funcion√°rios
+Treinamento C# WebDeveloper COTI Inform√°tica
 
-## ContÈudo do projeto
-* HerenÁa e associoaÁ„o de entidades
+## Cont√©udo do projeto
+* Heren√ßa e associa√ß√£o de entidades
 * Classes abstratas
 * Polimorfismo
-* ExportaÁ„o de arquivos
+* Exporta√ß√£o de arquivos
 * Desenvolvimento em camadas
 * SOLID (SRP, OCP)
